@@ -1,3 +1,4 @@
+import beth from "./images/beth.png";
 import daenerys from "./images/daenerys.gif";
 import dragon from "./images/dragon.gif";
 import gameofthrone from "./images/gameofthrone.gif";
@@ -6,7 +7,7 @@ import whitewalker from "./images/whitewalker.gif";
 
 
 const images =[
-
+beth,
 daenerys,
 dragon,
 gameofthrone,
