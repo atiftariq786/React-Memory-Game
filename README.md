@@ -17,7 +17,7 @@
 
 **  Demo Link
 
-[Memory Game App Demo](https://atiftariq786.github.io/React-Memory-Game/)
+[Memory Game App Demo](https://atiftariq786.github.io/React-Memory-Game/.)
 
 ## :camera:App Images
 
@@ -28,7 +28,7 @@
 
 ## :hammer_and_wrench: Deployment Instructions
 
-    Deployed version of the app can be found [here](https://atiftariq786.github.io/React-Memory-Game/). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section. 
+    Deployed version of the app can be found [here](https://atiftariq786.github.io/React-Memory-Game/.). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section. 
 
     1. Clone this repository down to your machine.
    
