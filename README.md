@@ -1,5 +1,5 @@
 #   React-Memory-Game
-    :pen:This is a memory game app built using below mention technologies,The app should render 12 different images (of your choice) to the screen. Each image should listen for click events.The app should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
+    This is a memory game app built using below mention technologies,The app should render 12 different images (of your choice) to the screen. Each image should listen for click events.The app should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
     Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
     Once the user's score is reset after an incorrect guess, the game should restart.
      
@@ -17,7 +17,7 @@
 
 **  Demo Link
 
-[Memory Game App Demo]()
+[Memory Game App Demo](https://atiftariq786.github.io/React-Memory-Game/)
 
 ## :camera:App Images
 
@@ -28,7 +28,7 @@
 
 ## :hammer_and_wrench: Deployment Instructions
 
-    Deployed version of the app can be found [here](DEPLOYED LINK HERE). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section. 
+    Deployed version of the app can be found [here](https://atiftariq786.github.io/React-Memory-Game/). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section. 
 
     1. Clone this repository down to your machine.
    
